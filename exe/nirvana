@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "nirvana"
+
+cli = Nirvana::CLI.new
+cli.parse
